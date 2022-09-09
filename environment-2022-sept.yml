@@ -90,8 +90,6 @@ dependencies:
   - libev=4.33
   - libevent=2.1.10
   - libffi=3.2.1
-  # - libgcc-ng=9.2.0
-  # - libgfortran-ng=7.3.0
   - libiconv=1.15
   - liblapack=3.8.0
   - libllvm8=8.0.1
@@ -102,11 +100,9 @@ dependencies:
   - libprotobuf=3.11.0
   - libsodium=1.0.17
   - libssh2=1.9.0
-  # - libstdcxx-ng=9.2.0
   - libuuid=2.32.1
   - libuv=1.40.0
   - libxcb=1.13
-  # - libxkbcommon=0.9.1
   - libxml2=2.9.10
   - llvmlite=0.30.0
   - louvain=0.6.1
@@ -128,7 +124,6 @@ dependencies:
   - ncurses=6.1
   - networkx=2.4
   - notebook=6.0.1
-  # - nspr=4.24
   - nss=3.47
   - numba=0.46.0
   - numexpr=2.7.0
