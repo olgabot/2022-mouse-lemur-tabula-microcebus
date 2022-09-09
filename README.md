@@ -3,7 +3,7 @@ Code for cross-species and uTAR sequence homology analyses for two Tabula Microc
 
 ## Paper 1 -- Figure 6a
 
-The Tabula Microcebus Consortium et al. Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. bioRxiv 2021.12.12.469460 (2021) doi:10.1101/2021.12.12.469460 ([biorxiv link]](https://www.biorxiv.org/content/10.1101/2021.12.12.469460v2.full))
+The Tabula Microcebus Consortium et al. Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. bioRxiv 2021.12.12.469460 (2021) doi:10.1101/2021.12.12.469460 ([biorxiv link](https://www.biorxiv.org/content/10.1101/2021.12.12.469460v2.full))
 
 ![image](https://user-images.githubusercontent.com/806256/189369914-c902c302-e062-4ffc-a73a-b3b2a42b233a.png)
 
