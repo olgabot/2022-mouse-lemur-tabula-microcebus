@@ -13,7 +13,7 @@ The data behind this figure includes:
 - Subsetting scanpy objects to only shared cell types
 - Subsetting scanpy objects on homologous genes
 - Creating a single scanpy object of human, mouse, and mouse lemur
-- Performing [Xi ($\Xi$)](https://github.com/czbiohub/xicor) correlation on bootstrapped trios of (human, mouse, mouse lemur) cells
+- Performing [Xi](https://github.com/czbiohub/xicor) (Xi = $\Xi$ Greek letter) correlation on bootstrapped trios of (human, mouse, mouse lemur) cells
 - Plotting $\Delta\Xi$ correlations to compare human:lemur vs human:mouse
 
 
